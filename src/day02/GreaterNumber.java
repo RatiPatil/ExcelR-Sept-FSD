@@ -18,10 +18,12 @@ public class GreaterNumber {
 		
 		if(n1 > n2) {
 			System.out.println("The Gater Number is : " + n1);
-		}else {
+		}else if(n2>n1){
 			System.out.println("The Greater Number is : " + n2);
 		}
-		
+		else {
+			System.out.println("Both Number is Equal");
+		}
 		
 	}
 
