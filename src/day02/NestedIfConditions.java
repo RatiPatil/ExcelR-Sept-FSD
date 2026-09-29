@@ -20,11 +20,11 @@ public class NestedIfConditions {
 			System.out.println("Second Class");
 		}else if(percentage >=40) {
 			System.out.println("Third Class");
-		}else if(percentage < 40) {
-			System.out.println("Not Pass");
 		}else {
-			System.out.println("Enter a valid number !");
+			System.out.println("Not Pass");
 		}
+		
+		System.out.println("Thank You ! ");
 		
 	}
 
