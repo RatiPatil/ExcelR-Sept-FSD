@@ -10,15 +10,17 @@ public class ElectricityUsage {
 		int electricityusage = sc.nextInt();
 		
 		
-		if(electricityusage > 0 && electricityusage <= 100) {
+		if(electricityusage >= 0 && electricityusage <= 100) {
 			System.out.println("low usage");
-		}else if(electricityusage > 101 && electricityusage <= 300) {
+		}else if(electricityusage >= 101 && electricityusage <= 300) {
 			System.out.println("Medium usage");
 		}else if(electricityusage > 300) {
 			System.out.println("High usage");
 		}else {
 			System.out.println("Invlid Units");
 		}
+		
+		
 		
 		
 	}
