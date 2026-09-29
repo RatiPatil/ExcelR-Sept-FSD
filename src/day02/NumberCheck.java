@@ -13,10 +13,12 @@ public class NumberCheck {
 		System.out.println("Enter number You want check Negetive Or Positive : " );
 		int number = sc.nextInt();
 		
-		if(number < 0 ) {
-			System.out.println("The number is Negetive ");
+		if(number > 0 ) {
+			System.out.println("The number is Positive ");
+		}else if(number < 0){
+			System.out.println("This is the Negetive Number ");
 		}else {
-			System.out.println("This is the Positive Number ");
+			System.out.println("zero");
 		}
 		
 
