@@ -26,7 +26,7 @@ public class ApprochDifferPrime {
 			System.out.println("PrimeNumber");
 			
 		}else {
-			System.out.println("NotPrimeNumber");
+			System.out.println("NotPrimeNmber");
 		}
 		
 		
