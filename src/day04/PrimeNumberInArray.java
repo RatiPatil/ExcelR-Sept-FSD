@@ -12,7 +12,7 @@ public class PrimeNumberInArray {
 		
 			
 			if(num<=1) {
-				isPrime = false;
+				isPrime = ;
 				
 			}else {
 				for(int j = 2 ; j<num;j++) {
