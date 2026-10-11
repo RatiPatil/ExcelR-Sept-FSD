@@ -15,7 +15,7 @@ public class Array2DPractice {
 		
 		
 		for( int [] nums : matrix) {
-			System.out.println(Arrays.toString());
+			System.out.println(Arrays.toString(nums));
 
 		}
 
