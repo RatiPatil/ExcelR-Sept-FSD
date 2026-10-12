@@ -25,7 +25,7 @@ public class MatrixInput {
 			for(int n = 0 ; n < matrix[m].length; n++) {
 				System.out.print(matrix[m][n] + "\t"); // Prints items in the same row separated by tabs
 			}
-			System.out.println// Moves to the next row line
+			System.out.prin// Moves to the next row line
 		}
 	}
 }
