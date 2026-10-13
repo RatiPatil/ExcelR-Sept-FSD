@@ -11,6 +11,8 @@ public class ArrayListDemo {
 		list1.add(10);
 		list1.add(45);
 		
+		System.out.println(list1);
+		
 		
 	}
 
