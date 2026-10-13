@@ -11,6 +11,16 @@ public class HasSetDemo {
 		System.out.println(names.add("Ratikant"));
 		System.out.println(names.add("Ben"));
 		System.out.println(names.add("Ben"));
+		
+		
+		String name = "viratkohli";
+		
+		
+		Set<Character> hashset = new HashSet();
+		
+		for(char ch : name.toCharArray()) {
+			
+		}
 	}
 
 }
