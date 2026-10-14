@@ -24,7 +24,7 @@ public class HasSetDemo {
 				System.out.println("First repeated char is " + ch);
 				break;
 			}else {
-				hashset.add(ch);
+				hashset.add
 			}
 			
 		}

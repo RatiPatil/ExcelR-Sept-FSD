@@ -13,7 +13,6 @@ public class ArrayListDemo {
 		
 		System.out.println(list1);
 		
-		
 	}
 
 }
