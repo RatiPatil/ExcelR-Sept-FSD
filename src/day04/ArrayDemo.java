@@ -12,10 +12,11 @@ public class ArrayDemo {
 		for(int i = 0 ; i<=arr.length-1; i++) {
 			
 			arr[i] = sc.nextInt();
-		
+			cd /d D:\ExcelR_JavaPrograms\ExcelRSeptFSD && git add . && (git diff --cached --quiet || git commit -m "update: add latest ExcelR practice") && git pull --rebase origin main && git push
+
+
+
 			
-		
-		
 		
 		}
 		
@@ -24,7 +25,7 @@ public class ArrayDemo {
 		for(int i = 0 ; i<=arr.length-1; i++) {
 			
 		
-			System.out.println(arr[i]);
+		
 			
 		
 		
