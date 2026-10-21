@@ -15,9 +15,4 @@ public class ArrayListDemo {
 		
 	}
 
-	cd /d D:\ExcelR_JavaPrograms\ExcelRSeptFSD && git add . && (git diff --cached --quiet || git commit -m "update: add latest ExcelR practice") && git pull --rebase origin main && git push
 	
-	
-	
-
-}
