@@ -9,7 +9,7 @@ public class ArrayListDemo {
 		ArrayList list1 = new ArrayList<>();
 		
 		list1.add(10);
-		list1.add(45);
+		
 		
 	
 		
