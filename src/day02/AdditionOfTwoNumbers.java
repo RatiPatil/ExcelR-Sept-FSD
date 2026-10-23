@@ -9,7 +9,7 @@ public class AdditionOfTwoNumbers {
 		
 		int sum = n1-n2;
 		
-		System.out.println(sum);
+		
 	}
 
 }
