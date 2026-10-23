@@ -7,7 +7,6 @@ public class AdditionOfTwoNumbers {
 		int n1 = 4 ;
 		int n2 = 1 ; 
 		
-		int sum = n1+n2;
 		
 		System.out.println(sum);
 	}
