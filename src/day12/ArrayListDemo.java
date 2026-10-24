@@ -6,6 +6,8 @@ public class ArrayListDemo {
 	public static void main(String [] args) {
 	
 	ArrayList<> my list = new ArrayList<>();
+	
+	mylist.add(13);
 		
 	}
 
