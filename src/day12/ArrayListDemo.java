@@ -9,6 +9,7 @@ public class ArrayListDemo {
 	
 	mylist.add(13);
 		
+	mylist.add(4);
 	}
 
 	
