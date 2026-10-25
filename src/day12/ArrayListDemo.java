@@ -7,7 +7,7 @@ public class ArrayListDemo {
 	
 	ArrayList<> my list = new ArrayList<>();
 	
-	mylist.add(4);
+	
 	
 	}
 
