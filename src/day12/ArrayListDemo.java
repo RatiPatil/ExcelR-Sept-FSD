@@ -7,9 +7,8 @@ public class ArrayListDemo {
 	
 	ArrayList<> my list = new ArrayList<>();
 	
-	mylist.add(13);
-		
 	mylist.add(4);
+	
 	}
 
 	
