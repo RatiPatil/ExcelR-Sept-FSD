@@ -8,6 +8,7 @@ public class ArrayListDemo{
 		ArrayList<Integer> newlist = new ArrayList<>();
 		
 		newlist.add(90);
+		newlist.add(78);
 		
 		
 		
