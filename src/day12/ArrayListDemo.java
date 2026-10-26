@@ -14,6 +14,9 @@ public class ArrayListDemo{
 		newlist.add(18);
 		
 		
+		System.out.println(newlist);
+		
+		
 		
 		
 	}
