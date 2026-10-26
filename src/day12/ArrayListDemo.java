@@ -11,6 +11,7 @@ public class ArrayListDemo{
 		newlist.add(78);
 		newlist.add(76);
 		newlist.add(89);
+		newlist.add(18);
 		
 		
 		
