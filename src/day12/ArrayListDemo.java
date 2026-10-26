@@ -9,6 +9,7 @@ public class ArrayListDemo{
 		
 		newlist.add(90);
 		newlist.add(78);
+		newlist.add(76);
 		
 		
 		
