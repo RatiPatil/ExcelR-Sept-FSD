@@ -7,7 +7,7 @@ public class ArrayListDemo{
 		
 		ArrayList<Integer> newlist = new ArrayList<>();
 		
-		newlist.add(90);
+		
 		
 
 		
