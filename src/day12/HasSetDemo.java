@@ -20,7 +20,7 @@ public class HasSetDemo {
 		
 		for(char ch : name.toCharArray()) {
 			
-			if(hashset.contains(ch)) {
+		
 
 
 				
