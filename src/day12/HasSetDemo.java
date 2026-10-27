@@ -23,7 +23,7 @@ public class HasSetDemo {
 			if(hashset.contains(ch)) {
 				System.out.println("First repeated char is " + ch);
 				break;
-			}else {
+			{
 				
 			}
 			
