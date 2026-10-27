@@ -12,9 +12,7 @@ public class ArrayListDemo{
 		newlist.add(76);
 		newlist.add(89);
 		newlist.add(18);
-		
-		
-		System.out.println(newlist);
+
 		
 		
 		
