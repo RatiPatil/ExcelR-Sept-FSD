@@ -21,9 +21,8 @@ public class HasSetDemo {
 		for(char ch : name.toCharArray()) {
 			
 			if(hashset.contains(ch)) {
-				System.out.println("First repeated char is " + ch);
-				break;
-			{
+
+
 				
 			}
 			
