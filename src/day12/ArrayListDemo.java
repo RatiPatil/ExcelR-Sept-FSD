@@ -7,7 +7,9 @@ public class ArrayListDemo{
 		
 		ArrayList<Integer> newlist = new ArrayList<>();
 		
-		
+	newlist.add(45);
+	newlist.add(21122);
+	
 		
 
 		
