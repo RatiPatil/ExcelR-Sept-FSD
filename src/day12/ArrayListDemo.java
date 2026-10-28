@@ -12,7 +12,7 @@ public class ArrayListDemo{
 	
 	System.out.println(newlist);
 	newlist.add(90);
-	
+	newlist.add(23);
 	
 	
 		
