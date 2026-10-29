@@ -10,9 +10,7 @@ public class ArrayListDemo{
 	newlist.add(45);
 	newlist.add(21122);
 	
-	System.out.println(newlist);
-	newlist.add(90);
-	new
+	Syst
 	
 	
 		
