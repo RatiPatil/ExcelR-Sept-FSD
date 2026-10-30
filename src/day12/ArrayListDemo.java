@@ -9,8 +9,7 @@ public class ArrayListDemo{
 		
 	newlist.add(45);
 	newlist.add(21122);
-	
-	System.out.PRIN
+
 	
 	
 		
