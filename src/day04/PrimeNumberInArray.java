@@ -25,6 +25,7 @@ public class PrimeNumberInArray {
 			if(isPrime) {
 				System.out.println("prime number"+num);
 			}else {
+				System.out.println("not prime number"+num);
 			}
 		}
 		
